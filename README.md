@@ -21,19 +21,19 @@ Par le même procédé nous avons ajoutez 3 déclaration.
 <img width="571" alt="list" src="https://github.com/Gakoudev/impots-express/assets/98522554/96d3e7a6-7433-4ecb-aeea-1c4e876e4c07">
 
   # Ajouter Paiement
-<img width="545" alt="addP1" src="https://github.com/Gakoudev/impots-express/assets/98522554/cc00caeb-0f32-49e6-ad75-9f3539388705">
+<img width="545" alt="addP1" src="https://github.com/Gakoudev/impots-express/assets/98522554/326b3a4f-0788-4a39-a108-770801bec4e7">
 
 Ici nous avons effectué un paiement total pour la déclaration d'id 1
 
-<img width="559" alt="addP2(1)" src="https://github.com/Gakoudev/impots-express/assets/98522554/dac7b137-7abe-4a79-b54d-27ab7701e95f">
-<img width="568" alt="addP2(2)" src="https://github.com/Gakoudev/impots-express/assets/98522554/3003abf0-d1be-4549-87f8-817e2a810cfe">
+<img width="559" alt="addP2(1)" src="https://github.com/Gakoudev/impots-express/assets/98522554/0c904588-365f-43bc-9433-c26e50b70772">
+<img width="568" alt="addP2(2)" src="https://github.com/Gakoudev/impots-express/assets/98522554/2063a7de-cbe5-4790-a682-0f49087a6537">
 
 Dans cette démo nous avons fait un paiement par tranche pour la déclaration d'id 2. Ce pendant le montant totale du paiement reste inférieur au montant de la déclaration  
   # Lister Paiement
-  <img width="574" alt="listP" src="https://github.com/Gakoudev/impots-express/assets/98522554/23701a95-370f-4073-acf9-f944dec0dbad">
+<img width="574" alt="listP" src="https://github.com/Gakoudev/impots-express/assets/98522554/4c6d7531-b125-4baa-8621-91377644a307">
 
 
  # Lister Declaration Non Payée
-<img width="566" alt="listNP" src="https://github.com/Gakoudev/impots-express/assets/98522554/2dd2ee48-7c29-408a-9757-0880f6683436">
+<img width="566" alt="listNP" src="https://github.com/Gakoudev/impots-express/assets/98522554/350f8b87-357f-4ab5-b32f-1b6a99ad807a">
 
 On peut voire de manière claire la liste des déclaration non payée et le reste à payer.
