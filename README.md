@@ -3,10 +3,11 @@
 # Démonstration avec POSTMAN:
 Nous Allons ajoutez 3 déclarant et pour chaque déclarant nous allons l'affecté une déclaration. La déclaration du declarant 1 sera payé entièrement, ceelui du déclarant 2 sera payé en deux tranche mais de manière incomplèète et celui du declarant 3 ne sera pas payé. Ainsi nous allons faire sortire les déclaration impayé et le montant restant à payer.
    # Plan de Travail POSTMAN
-   <img width="205" alt="workspace" src="https://github.com/Gakoudev/impots-express/assets/98522554/e141fbdd-c5a0-4174-bb10-38d73bafce73">
+   <img width="205" alt="workspace" src="https://github.com/Gakoudev/impots-express/assets/98522554/b32139fc-bc0b-4a80-a51c-e95861f70298">
+
 
    # Ajouter Declarant
-<img width="552" alt="add" src="https://github.com/Gakoudev/impots-express/assets/98522554/93f8ec32-bc93-4963-8ec9-3f7f0b990ed6">
+<img width="552" alt="add" src="https://github.com/Gakoudev/impots-express/assets/98522554/8ca3a54a-9c76-45b2-83c8-cf9ec74db132">
 
  Par le même procédé nous avons ajoutez 3 déclarant.
    # Lister Declarant
