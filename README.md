@@ -11,14 +11,14 @@ Nous Allons ajoutez 3 déclarant et pour chaque déclarant nous allons l'affect�
 
  Par le même procédé nous avons ajoutez 3 déclarant.
    # Lister Declarant
-<img width="561" alt="list" src="https://github.com/Gakoudev/impots-express/assets/98522554/3d0d94b1-b931-4b54-8753-871bb666231b">
+<img width="561" alt="list" src="https://github.com/Gakoudev/impots-express/assets/98522554/24c9b83e-a63d-4f29-8f9e-1eeefae656e3">
 
   # Ajouter Declaration
- <img width="550" alt="add" src="https://github.com/Gakoudev/impots-express/assets/98522554/3a3c69a6-c611-418e-ad59-ed86a25436dc">
+ <img width="550" alt="add" src="https://github.com/Gakoudev/impots-express/assets/98522554/be30bba4-0fc9-40f8-9640-75c8c903c74e">
  
 Par le même procédé nous avons ajoutez 3 déclaration.
  # Lister Declaration
- <img width="571" alt="list" src="https://github.com/Gakoudev/impots-express/assets/98522554/5cd14054-71e5-4a9f-8b88-071af49dc960">
+<img width="571" alt="list" src="https://github.com/Gakoudev/impots-express/assets/98522554/96d3e7a6-7433-4ecb-aeea-1c4e876e4c07">
 
   # Ajouter Paiement
 <img width="545" alt="addP1" src="https://github.com/Gakoudev/impots-express/assets/98522554/cc00caeb-0f32-49e6-ad75-9f3539388705">
