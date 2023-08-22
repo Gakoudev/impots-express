@@ -26,6 +26,7 @@ Ici nous avons effectué un paiement total pour la déclaration d'id 1
 
 <img width="559" alt="addP2(1)" src="https://github.com/Gakoudev/impots-express/assets/98522554/dac7b137-7abe-4a79-b54d-27ab7701e95f">
 <img width="568" alt="addP2(2)" src="https://github.com/Gakoudev/impots-express/assets/98522554/3003abf0-d1be-4549-87f8-817e2a810cfe">
+
 Dans cette démo nous avons fait un paiement par tranche pour la déclaration d'id 2. Ce pendant le montant totale du paiement reste inférieur au montant de la déclaration  
   # Lister Paiement
   <img width="574" alt="listP" src="https://github.com/Gakoudev/impots-express/assets/98522554/23701a95-370f-4073-acf9-f944dec0dbad">
